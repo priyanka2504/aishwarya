@@ -1,0 +1,13 @@
+.about {
+    margin-left: -450px;
+}
+
+.scroll {
+    max-width: 70em;
+    height: 40em;
+    padding: 1em;
+    margin: auto;
+    overflow: auto;
+    direction: ltr;
+    text-align: left;
+}
